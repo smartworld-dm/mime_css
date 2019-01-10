@@ -137,6 +137,12 @@ thead th {
 	width: 55%;
 }
 
+.right-60 {
+	float: right;
+	vertical-align: top;
+	width: 60%;
+}
+
 .ta-left {
 	text-align: left;
 }
