@@ -68,7 +68,7 @@ tbody th, tbody td {
 }
 
 .bottom p {
-	font-size: 8px;
+	font-size: 10px;
 	text-align: center;
 }
 
@@ -113,4 +113,8 @@ tbody th, tbody td {
 .no-border {
 	border: 0px !important;
 	background-color: white;
+}
+
+.bold {
+	font-weight: bold;
 }
