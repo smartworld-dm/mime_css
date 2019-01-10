@@ -20,7 +20,7 @@ body {
 .main {
 	width: 800px;
 	height: 800px;
-	background-color: white;
+	background-color: gray;
 }
 
 .title > p {
