@@ -84,6 +84,12 @@ tbody th, tbody td {
 	width: 60%;
 }
 
+.left-55 {
+	float: left;
+	vertical-align: top;
+	width: 60%;
+}
+
 .right-40 {
 	float: right;
 	vertical-align: top;
@@ -97,6 +103,12 @@ tbody th, tbody td {
 }
 
 .right-55 {
+	float: right;
+	vertical-align: top;
+	width: 55%;
+}
+
+.right-45 {
 	float: right;
 	vertical-align: top;
 	width: 55%;
