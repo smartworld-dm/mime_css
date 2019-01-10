@@ -89,10 +89,16 @@ thead th {
 	cursor: pointer;
 }
 
-.left-60 {
+.left-45 {
 	float: left;
 	vertical-align: top;
-	width: 60%;
+	width: 45%;
+}
+
+.left-50 {
+	float: left;
+	vertical-align: top;
+	width: 50%;
 }
 
 .left-55 {
@@ -101,28 +107,34 @@ thead th {
 	width: 55%;
 }
 
+.left-60 {
+	float: left;
+	vertical-align: top;
+	width: 60%;
+}
+
 .right-40 {
 	float: right;
 	vertical-align: top;
 	width: 40%;
 }
 
-.left-45 {
-	float: left;
+.right-45 {
+	float: right;
 	vertical-align: top;
 	width: 45%;
+}
+
+.right-50 {
+	float: right;
+	vertical-align: top;
+	width: 50%;
 }
 
 .right-55 {
 	float: right;
 	vertical-align: top;
 	width: 55%;
-}
-
-.right-45 {
-	float: right;
-	vertical-align: top;
-	width: 45%;
 }
 
 .ta-left {
