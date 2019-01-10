@@ -23,12 +23,19 @@ body {
 	background-color: white;
 }
 
+.title {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+
 .title > p {
 	float: right;
 	font-size: 28px;
 	vertical-align: top;
 	margin-top: 10px;
-}	
+}
 
 .from {
 	margin-top: 10px;
@@ -37,6 +44,8 @@ body {
 .from, .to {
 	height: 180px;
 	line-height: 8px
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
 table {
